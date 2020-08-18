@@ -1,21 +1,17 @@
-## Hi there! I'm Krido - fka [YUXXEUN][website] 😈 
-### I'm a Student, Developer, and of course Cyclist! ~ 아이유 사랑해 ❤️ 
-- 🌱 I’m currently learning the things I love 💑
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I have dimples!
+## Hi there! I'm [Palwa][website] 
+### you're here for a reason 
+- I’m currently learning the things that i fucking hate. but i enjoyed it tho
+- Fun fact: i stole this from my friend.
 
 ### Connect with me:
-<a href="https://yuxxeun.github.io/">
-  <img align="left" alt="YUXEEUN Facebook" width="21px" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Fwww.svg?alt=media&token=18d94c5d-5df5-4f38-80e3-2f515df0f47d" />
+<a href="https://akbarpalwa.github.io/">
+  <img align="left" alt="Palwa's website" width="21px" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Fwww.svg?alt=media&token=18d94c5d-5df5-4f38-80e3-2f515df0f47d" />
 </a>
-<a href="https://twitter.com/yuxxeun">
-  <img align="left" alt="YUXEEUN Twitter" width="21px" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Ftwitter.svg?alt=media&token=0e4ffc45-d873-47ee-b08c-9b98b4fe66cf" />
+<a href="https://twitter.com/palwanesia">
+  <img align="left" alt="Palwa's Twitter" width="21px" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Ftwitter.svg?alt=media&token=0e4ffc45-d873-47ee-b08c-9b98b4fe66cf" />
 </a>
-<a href="https://www.linkedin.com/in/krido-pambudi/">
-  <img align="left" alt="YUXEEUN Linkdin" width="21px" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Flinkedin.svg?alt=media&token=0e662ab8-db11-475a-9c43-18d89bcdfde0" />
-</a>
-<a href="https://www.instagram.com/yuxxeun">
-  <img align="left" alt="YUXEEUN Instagram" width="21px" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Finstagram-sketched.svg?alt=media&token=ecd87a7d-17b0-464e-8c4f-ec446b86fd51" />
+<a href="https://www.instagram.com/pxlwa">
+  <img align="left" alt="Palwa's Instagram" width="21px" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Finstagram-sketched.svg?alt=media&token=ecd87a7d-17b0-464e-8c4f-ec446b86fd51" />
 </a>
 
 <br />
@@ -40,9 +36,8 @@
 <br />
 
 ---
-<img align="left" alt="yuxxeun Github Stats" src="https://github-readme-stats.vercel.app/api?username=yuxxeun&show_icons=true&hide_border=true" />
+<img align="left" alt="Palwa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=akbarpalwa&show_icons=true&hide_border=true" />
 
-[website]: https://yuxxeun.github.io
-[twitter]: https://twitter.com/yuxxeun
-[instagram]: https://instagram.com/yuxxeun
-[linkedin]: https://www.linkedin.com/in/krido-pambudi
+[website]: https://akbarpalwa.github.io
+[twitter]: https://twitter.com/palwanesia
+[instagram]: https://instagram.com/pxlwa
