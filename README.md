@@ -1,4 +1,4 @@
-## Hi there! I'm [Palwa][website] 
+## Hi there! i'm [Palwa][website] 
 ### you're here for a reason 
 - I’m currently learning the things that i fucking hate. but i enjoyed it tho
 - Fun fact: i stole this from my friend.
